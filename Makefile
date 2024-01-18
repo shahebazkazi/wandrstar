@@ -1,5 +1,5 @@
 AWS_REGION = ap-south-1
-AWS_ACCOUNT_ID = 302280924545
+AWS_ACCOUNT_ID = 
 MS1 = flight-search-ms
 MS2 = user-ms
 MS3 = wandrstar-ms
